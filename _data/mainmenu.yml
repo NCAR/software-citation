@@ -1,6 +1,6 @@
 menu:
   - title: Layouts
-    url: /koru-jekyll-template/pages/layouts.html
+    url: /pages/layouts.html
     submenu:
       - title: Submenu Item
         url: /koru-jekyll-template/pages/submenu.html
