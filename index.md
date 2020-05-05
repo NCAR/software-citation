@@ -1,17 +1,14 @@
 ---
 layout: frontpage
 title: Home
-banner-title: Example Github site
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-title: NCAR Software Citation Recommendation
+banner-description: Software citations for open source at NCAR.
+banner-button-text: Get the Tech Report
+banner-button-url: assets/whitepaper_placeholder.pdf
 ---
 
-# Documentation
+# Why Software Citation?
 
-NCAR/UCAR users interested in using this template with their Github pages website will need to first clone down this repository and copy over code either into their project's existing /docs directory or a new repository. You should then change the _config.yml, index.md, README.md and markdown pages within the /pages directory.
 
-| Syntax | Description |
-| ----------- | ----------- |
-| ![](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png) | Title |
-| Paragraph | Text |
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et rhoncus orci. Quisque dignissim sed sem vulputate viverra. Nullam a velit nec justo consectetur tincidunt. Nullam sed iaculis justo. Donec lacinia justo non pretium posuere. Suspendisse pulvinar scelerisque dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean dignissim nisl sed eros pretium tincidunt. Curabitur sed molestie purus. Ut egestas tristique rhoncus.
+

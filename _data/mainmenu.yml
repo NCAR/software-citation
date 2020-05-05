@@ -1,12 +1,21 @@
 menu:
-  - title: Layouts
-    url: /software-citation/pages/layouts.html
+  - title: Recommendation
+    url: /software-citation/pages/recommendation.html
     submenu:
-      - title: Submenu Item
-        url: /koru-jekyll-template/pages/submenu.html
-  - title: Updating the Main Menu
-    url: /koru-jekyll-template/pages/main-menu.html
-  - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
+      - title: Mint an NCAR DOI
+        url: /software-citation/pages/recommendation/mint-doi.html
+
+      - title: Provide clear citation instructions
+        url: /software-citation/pages/recommendation/provide-citation.html
+
+      - title: Select and apply a software license
+        url: /software-citation/pages/recommendation/select-license.html
+
+  - title: About
+    url: /software-citation/pages/about.html
+
   - title: Support
-    url: /koru-jekyll-template/pages/support.html
+    url: /software-citation/pages/support.html
+
+  - title: Full Examples
+    url: /software-citation/pages/examples.html
