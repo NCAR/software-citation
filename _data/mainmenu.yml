@@ -1,21 +1,21 @@
 menu:
   - title: Recommendation
-    url: /software-citation/pages/recommendation.html
+    url: /pages/recommendation.html
     submenu:
       - title: Mint an NCAR DOI
-        url: /software-citation/pages/recommendation/mint-doi.html
+        url: /pages/recommendation/mint-doi.html
 
       - title: Provide clear citation instructions
-        url: /software-citation/pages/recommendation/provide-citation.html
+        url: /pages/recommendation/provide-citation.html
 
       - title: Select and apply a software license
-        url: /software-citation/pages/recommendation/select-license.html
+        url: /pages/recommendation/select-license.html
 
   - title: About
-    url: /software-citation/pages/about.html
+    url: /pages/about.html
 
   - title: Support
-    url: /software-citation/pages/support.html
+    url: /pages/support.html
 
   - title: Full Examples
-    url: /software-citation/pages/examples.html
+    url: /pages/examples.html
