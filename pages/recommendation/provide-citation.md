@@ -11,7 +11,7 @@ Acknowledgement of your software is important for a number of reasons, the most 
 
 Provide a recommended citation on the software DOI’s landing page.  Here is an actual example from the [Unidata IDV project](https://www.unidata.ucar.edu/software/idv/):
 
-![](/software-citation/assets/idv_citation_example.PNG)
+![](/assets/idv_citation_example.PNG)
 
 and 
 
@@ -21,7 +21,7 @@ Based on this acknowledgement template the end user has clear awareness of the n
 
 On the software's Github page include a recommended citation on the that if users find the landing page but do have not yet visited the source code.  This is an example from the [WRF-Python](https://github.com/NCAR/wrf-python) software package repository on Github:
 
-![](/software-citation/assets/wrf_citation_example.PNG)
+![](/assets/wrf_citation_example.PNG)
 
 #### Include a command in the software that allows users to generate a citation
 You can optionally include a command in the software that allows users to generate a citation.  The LatticeKrig project makes heavy use of the R programming language.  To encourage citation and to remind users that within their R environment that they may get an example of the citation as the authors intended, with the `citation("LatticeKrig")` command in the language which will generate the citation with the current running version of the software.
