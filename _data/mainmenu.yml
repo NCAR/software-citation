@@ -1,6 +1,6 @@
 menu:
   - title: Recommendation
-    url: {{ site.url }}/pages/recommendation.html
+    url: /pages/recommendation.html
     submenu:
       - title: Mint an NCAR DOI
         url: /software-citation/pages/recommendation/mint-doi.html
