@@ -4,7 +4,7 @@ title: Home
 banner-title: NCAR Software Citation Recommendation
 banner-description: Software citations for open source at NCAR.
 banner-button-text: Get the Tech Report
-banner-button-url: {{ site.url }}/assets/whitepaper_placeholder.pdf
+banner-button-url: assets/whitepaper_placeholder.pdf
 ---
 
 # Why Software Citation?
