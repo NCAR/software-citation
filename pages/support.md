@@ -23,7 +23,7 @@ If you would like to learn more information about citing software, data and othe
 
 ---
 
-Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter Notebooks: A Primer for Data Curators. Data Curation Network. http://hdl.handle.net/11299/202815 
+Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter Notebooks: A Primer for Data Curators. Data Curation Network. [http://hdl.handle.net/11299/202815](http://hdl.handle.net/11299/202815) 
 
 Chassanoff, A., & Altman, M. (2019). Curation as “interoperability with the future”: Preserving scholarly research software in academic libraries. Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.24244   
 
