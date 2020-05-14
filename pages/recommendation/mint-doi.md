@@ -34,4 +34,4 @@ You can add a DOI badge very easily to your top-level master branch `README.md` 
 
 And once you add this to the first line of your `README.md`, your badge will look like this:
 
-![](/assets/doi_badge_example.PNG)
+![]({{ site.url }}/assets/doi_badge_example.PNG)
