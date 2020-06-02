@@ -2,8 +2,7 @@
 layout: default
 title: Mint a DOI
 ---
-
-### Mint an NCAR DOI
+### Mint an NCAR DOI for a Software Package
 
 Minting NCAR DOIs is handled through 
 the [NCAR Library](https://library.ncar.edu) and there are specific instructions for quickly and easily minting a 
@@ -20,18 +19,10 @@ DOI. Please follow the instructions here:
     
 You may submit additional metadata as needed.
 
-If you have any further questions please contact: ???@ucar.edu
+If you have any further questions please contact: datahelp@ucar.edu
 
-#### Add a Software DOI Badge to your Repository
+### Mint Zenodo DOIs for Frequent Software Package Releases
 
-DOI badges help improve the visibility of your software on your software repository.  They are a very simple way to let your visitors and end users know that there indeed exists a DOI and that they are being encouraged to use it.
+[Zenodo](https://zenodo.org) provides a [DOI minting service]() directly from your Github repository. If you want discrete DOIs to be assigned with each of your releases, you may find that the Zenodo integration with Github will suit your needs, as it is tighly intregrated with the your project releases within your repository.
 
-You can add a DOI badge very easily to your top-level master branch `README.md` file with the following shortcode that uses the [shields.io](https://shields.io) badge catalog:
-
-```markdown
-[![DOI](https://img.shields.io/badge/DOI-YOUR NCAR DOI)](https://doi.org/YOUR_NCAR_DOI)
-```
-
-And once you add this to the first line of your `README.md`, your badge will look like this:
-
-![](/software-citation/assets/doi_badge_example.PNG)
+If you have any questions about which option suits your short- or long-term needs, please contact us.

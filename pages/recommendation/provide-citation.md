@@ -25,3 +25,19 @@ On the software's github page include a recommended citation on the that if user
 
 #### Include a command in the software that allows users to generate a citation
 You can optionally include a command in the software that allows users to generate a citation.  the latticekrig project makes heavy use of the r programming language.  to encourage citation and to remind users that within their r environment that they may get an example of the citation as the authors intended, with the `citation("latticekrig")` command in the language which will generate the citation with the current running version of the software.
+
+#### Add a Software DOI Badge to your Repository
+
+DOI badges help improve the visibility of your software on your software repository.  They are a very simple way to let your visitors and end users know that there indeed exists a DOI and that they are being encouraged to use it.
+
+You can add a DOI badge very easily to your top-level master branch `README.md` file with the following shortcode that uses the [shields.io](https://shields.io) badge catalog:
+
+```markdown
+[![DOI](https://img.shields.io/badge/DOI-YOUR NCAR DOI)](https://doi.org/YOUR_NCAR_DOI)
+```
+
+And once you add this to the first line of your `README.md`, your badge will look like this:
+
+![](/software-citation/assets/doi_badge_example.PNG)
+
+
