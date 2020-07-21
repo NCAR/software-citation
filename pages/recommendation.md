@@ -5,7 +5,7 @@ title: Recommendation
 
 # Broad Recommendation
 
-> **Use persistent identifier for software that is to be used by others and make your acknowledgement policy clearly available in the `README` and `LICENSE` files of your Github repository.**
+> **Use persistent a identifier for software that is to be used by others and make your acknowledgement policy clearly available in the `README` and `LICENSE` files of your Github repository.**
 
 ### Specific recommendations
 

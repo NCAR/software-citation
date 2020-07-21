@@ -5,7 +5,7 @@ title: Support
 
 ## Support
 
-If you ever need addition help and support for your software citation, please reach out to the NCAR Library staff, Matt Mayernik (mayernik@ucar.edu) or Keith Maull (kmaull@ucar.edu).
+If you ever need additional help and support for your software citation, please reach out to the NCAR Library staff, Matt Mayernik (mayernik@ucar.edu) or Keith Maull (kmaull@ucar.edu).
 
 We will be able to help you to:
 
