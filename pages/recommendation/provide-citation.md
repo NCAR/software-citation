@@ -9,7 +9,7 @@ Acknowledgement of your software is important for a number of reasons, the most 
 
 #### your software package’s web page or github repository should include language indicating how you would like attribution
 
-Provide a recommended citation on the software DOI’s landing page.  Here is an actual example from the [unidata idv project](https://www.unidata.ucar.edu/software/idv/):
+Provide a recommended citation on the software DOI’s landing page.  Here is an actual example from the [unidata IDV project](https://www.unidata.ucar.edu/software/idv/):
 
 ![](/software-citation/assets/idv_citation_example.PNG)
 
@@ -19,12 +19,9 @@ and
 
 based on this acknowledgement template the end user has clear awareness of the *name of the software package*, the *software version*, the *creator an the DOI* reference to the packaage.  It is consistent with what would be expected of an academic citation style found in a publication.
 
-On the software's github page include a recommended citation on the that if users find the landing page but do have not yet visited the source code.  This is an example from the [wrf-python](https://github.com/ncar/wrf-python) software package repository on github:
+On the software's github page include a recommended citation so if users find the landing page, but have not yet visited the source code, they can quickly understand how to cite the work.  Here is an example from the [wrf-python](https://github.com/ncar/wrf-python) software package repository on github:
 
 ![](/software-citation/assets/wrf_citation_example.PNG)
-
-#### Include a command in the software that allows users to generate a citation
-You can optionally include a command in the software that allows users to generate a citation.  the latticekrig project makes heavy use of the r programming language.  to encourage citation and to remind users that within their r environment that they may get an example of the citation as the authors intended, with the `citation("latticekrig")` command in the language which will generate the citation with the current running version of the software.
 
 #### Add a Software DOI Badge to your Repository
 
@@ -41,3 +38,5 @@ And once you add this to the first line of your `README.md`, your badge will loo
 ![](/software-citation/assets/doi_badge_example.PNG)
 
 
+#### (Optional) Include a command in the software that allows users to generate a citation
+You can optionally include a command in the software that allows users to generate a citation.  The [latticekrig](https://cran.r-project.org/web/packages/LatticeKrig/index.html) project makes heavy use of the R programming language.  To encourage citation and to remind users that within their R environment that they may get an example of the citation as the authors intended, the `citation("latticekrig")` command in the language will generate the citation with the current running version of the software.
