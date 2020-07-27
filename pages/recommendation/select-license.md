@@ -5,7 +5,7 @@ title: Select a license
 
 ### Select a License
 
-Recall, licensing protects the ownership of original creative works.  Before choosing a license for your software, review its software components for inclusion of other licensed or copywrited software to make sure that your contribution is in compliance with the contributions of the included software.  This provides the necessary attribution linkages to creative works that are built on top of the contributions of others.
+Recall, licensing protects the ownership of original creative works.  Before choosing a license for your software, review its software components for inclusion of other licensed or copyrighted software to make sure that your contribution is in compliance with the contributions of the included software.  This provides the necessary attribution linkages to creative works that are built on top of the contributions of others.
 
 Selecting a license for your software is important.  While there are many licenses available to use, the NCAR recommended open source licenses are 
 
