@@ -1,6 +1,6 @@
 menu:
   - title: Recommendation
-    url: /software-citation/pages/recommendation.html
+    url: /software-citation/index.html
     submenu:
       - title: Mint an NCAR DOI
         url: /software-citation/pages/recommendation/mint-doi.html
