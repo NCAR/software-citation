@@ -27,7 +27,7 @@ Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter Note
 
 Chassanoff, A., & Altman, M. (2019). Curation as “interoperability with the future”: Preserving scholarly research software in academic libraries. Journal of the Association for Information Science and Technology. [https://doi.org/10.1002/asi.24244](https://doi.org/10.1002/asi.24244)   
 
-Codemeta. https://codemeta.github.io/ 
+Codemeta. [https://codemeta.github.io/](https://codemeta.github.io/)
 
 Cox, Krista; Bouquin, Daina; Brower, Don; Anderson, Seth; Aragon, Selina (2019): Software Curation: An Ecosystem of Users, Tools and Services. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.7795880.v1](https://doi.org/10.6084/m9.figshare.7795880.v1)
 
