@@ -9,7 +9,7 @@ banner-button-url: "assets/[1_Page] NCAR Software Citation Recommendation 2020.p
 
 # Broad Recommendation
 
-> **Use persistent a identifier for software that is to be used by others and make your acknowledgement policy clearly available in the `README` and `LICENSE` files of your Github repository.**
+> **Use a persistent identifier for software that is to be used by others and make your acknowledgement policy clearly available in the `README` and `LICENSE` files of your Github repository.**
 
 ### Specific recommendations
 
