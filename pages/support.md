@@ -9,17 +9,17 @@ If you ever need additional help and support for your software citation, please 
 
 We will be able to help you to:
 
-* mint a DOI for your software package,
-* select a license for your software project,
-* develop a citation, versioning or archiving plan for your software package,
-* develop a public citation-friendly repository template for your software on Github, or 
-* obtain periodic metrics for your DOI so you can understand how it is being used.
+* Mint a DOI for your software package.
+* Select a license for your software project.
+* Develop a citation, versioning, or archiving plan for your software package.
+* Develop a public citation-friendly repository template for your software on Github.
+* Obtain periodic metrics for your DOI so you can understand how it is being used.
 
 
 ## Recommended References
 
 
-If you would like to learn more information about citing software, data and other related topics, please browse the resources below.
+If you would like to learn more information about citing software, data, and other related topics, please browse the resources below.
 
 ---
 
