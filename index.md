@@ -4,7 +4,7 @@ title: Home
 banner-description: NCAR Software Citation Recommendations
 banner-title: Improving NCAR open source software through citation
 banner-button-text: Get the Summary Report
-banner-button-url: "assets/[1_Page] NCAR Software Citation Recommendation 2020.pdf"
+banner-button-url: "assets/NCAR Software Citation Recommendation 2020.pdf"
 ---
 
 # Broad Recommendation
